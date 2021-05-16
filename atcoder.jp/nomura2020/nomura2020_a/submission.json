@@ -1,0 +1,12 @@
+{
+	"id": 22329993,
+	"epoch_second": 1620211403,
+	"problem_id": "nomura2020_a",
+	"contest_id": "nomura2020",
+	"user_id": "kai112358",
+	"language": "C++ (GCC 9.2.1)",
+	"point": 100,
+	"length": 193,
+	"result": "AC",
+	"execution_time": 7
+}
